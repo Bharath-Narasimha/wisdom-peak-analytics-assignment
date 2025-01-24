@@ -1,0 +1,39 @@
+# Node.js dependencies
+node_modules/
+
+# Environment files
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+
+# Build files
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# Cache files
+.cache/
+npm-cache/
+.pnpm-debug.log*
